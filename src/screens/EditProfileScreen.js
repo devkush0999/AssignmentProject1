@@ -1,4 +1,3 @@
-// src/screens/EditProfileScreen.js
 import React, { useState } from 'react';
 import { View, Text, Button, TextInput, Alert, Image, TouchableOpacity } from 'react-native';
 import { useSelector, useDispatch } from 'react-redux';

@@ -5,7 +5,7 @@ import { styles } from '../styles/globalStyles';
 const HomeScreen = () => {
   return (
     <View style={styles.screen}>
-      <Text style={styles.title}>Welcome Home!</Text>
+      <Text style={styles.title}>Chhota Bheem Chota Bheem!</Text>
     </View>
   );
 };

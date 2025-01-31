@@ -1,4 +1,3 @@
-// src/screens/ProfileScreen.js
 import React from 'react';
 import { View, Text, Button, Image } from 'react-native';
 import { useSelector } from 'react-redux';
