@@ -1,9 +1,9 @@
-// src/redux/profileSlice.js
+
 import { createSlice } from '@reduxjs/toolkit';
 
 const initialState = {
-  name: 'John Doe',
-  email: 'john@example.com',
+  name: 'Devesh kumar singh',
+  email: 'devesh@example.com',
   bio: 'Software Developer',
   image: null, // Add image field
 };
